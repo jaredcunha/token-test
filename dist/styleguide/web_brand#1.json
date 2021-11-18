@@ -57,6 +57,7 @@
     "crazy": "#02ff3a",
     "primary": "#3B5998",
     "secondary": "#4267B2",
+    "tertiary": "#4267B2",
     "feature": {
       "chat": "#4a8c70",
       "blog": "#14213d",

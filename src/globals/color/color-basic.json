@@ -28,6 +28,10 @@
 		"secondary": {
 			"value": "{zalias.color.brand.secondary.value}",
 			"type": "color"
+		},
+		"tertiary": {
+			"value": "{zalias.color.brand.secondary.value}",
+			"type": "color"
 		}
 	}
 }

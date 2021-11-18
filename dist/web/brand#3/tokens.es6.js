@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 18 Nov 2021 15:17:53 GMT
+ * Generated on Thu, 18 Nov 2021 15:30:03 GMT
  */
 
 export const CO_ZALIAS_COLOR_BRAND_PRIMARY = "#EA4335";
@@ -36,6 +36,7 @@ export const CO_COLOR_RED = "#BF0603";
 export const CO_COLOR_CRAZY = "#02FF3A";
 export const CO_COLOR_PRIMARY = "#EA4335";
 export const CO_COLOR_SECONDARY = "#34A853";
+export const CO_COLOR_TERTIARY = "#34A853";
 export const CO_COLOR_FEATURE_CHAT = "#4A8C70";
 export const CO_COLOR_FEATURE_BLOG = "#14213D";
 export const CO_COLOR_FEATURE_SHOP = "#FCA311";

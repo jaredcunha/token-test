@@ -1,7 +1,7 @@
 
 /**
  * Do not edit directly
- * Generated on Thu, 18 Nov 2021 15:17:53 GMT
+ * Generated on Thu, 18 Nov 2021 15:30:03 GMT
  */
 
 $co-zalias-color-brand-primary: #1DA1F2 !default;
@@ -37,6 +37,7 @@ $co-color-red: #BF0603 !default;
 $co-color-crazy: #02FF3A !default;
 $co-color-primary: #1DA1F2 !default;
 $co-color-secondary: #AAB8C2 !default;
+$co-color-tertiary: #AAB8C2 !default;
 $co-color-feature-chat: #4A8C70 !default;
 $co-color-feature-blog: #14213D !default;
 $co-color-feature-shop: #FCA311 !default;
@@ -163,6 +164,7 @@ $tokens: (
     'crazy': $co-color-crazy,
     'primary': $co-color-primary,
     'secondary': $co-color-secondary,
+    'tertiary': $co-color-tertiary,
     'feature': (
       'chat': $co-color-feature-chat,
       'blog': $co-color-feature-blog,
