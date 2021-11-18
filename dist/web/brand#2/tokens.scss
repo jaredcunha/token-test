@@ -1,11 +1,11 @@
 
 /**
  * Do not edit directly
- * Generated on Thu, 18 Nov 2021 15:05:22 GMT
+ * Generated on Thu, 18 Nov 2021 15:15:11 GMT
  */
 
-$co-alias-color-brand-primary: #1DA1F2 !default;
-$co-alias-color-brand-secondary: #AAB8C2 !default;
+$co-alias-foo-brand-primary: #1DA1F2 !default;
+$co-alias-foo-brand-secondary: #AAB8C2 !default;
 $co-avatar-size-xxsm: 36px !default;
 $co-avatar-size-sm: 72px !default;
 $co-avatar-size-md: 90px !default;
@@ -106,10 +106,10 @@ $co-font-family-custom: 'Uni Neue', sans-serif !default;
 
 $tokens: (
   'alias': (
-    'color': (
+    'foo': (
       'brand': (
-        'primary': $co-alias-color-brand-primary,
-        'secondary': $co-alias-color-brand-secondary
+        'primary': $co-alias-foo-brand-primary,
+        'secondary': $co-alias-foo-brand-secondary
       )
     )
   ),

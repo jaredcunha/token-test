@@ -1,10 +1,10 @@
 /**
  * Do not edit directly
- * Generated on Thu, 18 Nov 2021 15:05:22 GMT
+ * Generated on Thu, 18 Nov 2021 15:15:11 GMT
  */
 
-export const CO_ALIAS_COLOR_BRAND_PRIMARY = "#1DA1F2";
-export const CO_ALIAS_COLOR_BRAND_SECONDARY = "#AAB8C2";
+export const CO_ALIAS_FOO_BRAND_PRIMARY = "#1DA1F2";
+export const CO_ALIAS_FOO_BRAND_SECONDARY = "#AAB8C2";
 export const CO_AVATAR_SIZE_XXSM = "36px";
 export const CO_AVATAR_SIZE_SM = "72px";
 export const CO_AVATAR_SIZE_MD = "90px";

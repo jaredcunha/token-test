@@ -1,6 +1,6 @@
 {
   "alias": {
-    "color": {
+    "foo": {
       "brand": {
         "primary": "#3B5998",
         "secondary": "#4267B2"
