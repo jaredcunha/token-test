@@ -1,0 +1,165 @@
+{
+  "alias": {
+    "color": {
+      "brand": {
+        "primary": "#3B5998",
+        "secondary": "#4267B2"
+      }
+    }
+  },
+  "avatar": {
+    "size": {
+      "xxsm": "36px",
+      "sm": "72px",
+      "md": "90px",
+      "lg": "120px",
+      "xlg": "150px"
+    },
+    "border_radius": {
+      "circle": "50%",
+      "squared": "12%"
+    },
+    "monogram": {
+      "color_default": "#949494",
+      "color_variant_1": "#ff4000",
+      "color_variant_2": "#ff4278",
+      "color_variant_3": "#ff8201",
+      "color_variant_4": "#ffc831",
+      "color_variant_5": "#00caa8",
+      "color_variant_6": "#17d417",
+      "color_variant_7": "#b500e3",
+      "color_variant_8": "#1ab0ff",
+      "color_variant_9": "#2b8cfc"
+    }
+  },
+  "base": {
+    "border": {
+      "radius": "10px"
+    }
+  },
+  "borderRadius": {
+    "neato": "10px",
+    "arden": "100px"
+  },
+  "button": {
+    "border": {
+      "radius": "10px",
+      "width": "1px"
+    },
+    "height": "44px",
+    "height_small": "40px"
+  },
+  "color": {
+    "green": "#4a8c70",
+    "blue": "#14213d",
+    "yellow": "#fca311",
+    "red": "#bf0603",
+    "crazy": "#02ff3a",
+    "primary": "#3B5998",
+    "secondary": "#4267B2",
+    "feature": {
+      "chat": "#4a8c70",
+      "blog": "#14213d",
+      "shop": "#fca311",
+      "settings": "#bf0603",
+      "foo": "#02ff3a"
+    },
+    "black": "#000000",
+    "gray_60": "#6a6a6a",
+    "gray_40": "#949494",
+    "gray_24": "#c4c4c4",
+    "gray_12": "#e0e0e0",
+    "gray_3": "#f6f6f6",
+    "action_primary": "#3B5998",
+    "action_destructive": "#bf0603",
+    "border": "#e0e0e0",
+    "user": {
+      "authenticated": "#4a8c70",
+      "anonymous": "#949494"
+    },
+    "social": {
+      "facebook": "#4867aa",
+      "twitter": "#1ab0ff",
+      "vkontakte": "#507299",
+      "odnoklassniki": "#ff8201",
+      "google": "#dc4a3d",
+      "instagram": "#d93175",
+      "linkedin": "#0076b7"
+    }
+  },
+  "icon": {
+    "size": {
+      "xsm": "10px",
+      "sm": "16px",
+      "md": "22px",
+      "lg": "30px",
+      "xlg": "36px",
+      "xxlg": "46px"
+    },
+    "jumbo-size": {
+      "md": "90px",
+      "lg": "120px"
+    }
+  },
+  "input": {
+    "placeholder": "#949494",
+    "choice": {
+      "size": "24px"
+    },
+    "toggle": {
+      "width": "40px",
+      "height": "24px"
+    },
+    "search": {
+      "height": "32px"
+    },
+    "toolbar": {
+      "height": "44px",
+      "item_gap": "0px",
+      "send_icon_size": "32px"
+    },
+    "switcher": {
+      "item_size": "40px",
+      "icon_size": "24px"
+    },
+    "mini": {
+      "height": "36px",
+      "send_icon_size": "32px"
+    }
+  },
+  "login": {
+    "size": {
+      "md": "65px",
+      "lg": "90px",
+      "xlg": "200px"
+    },
+    "button_height": "48px"
+  },
+  "spacing": {
+    "xsm": "4px",
+    "sm": "8px",
+    "md": "12px",
+    "lg": "16px",
+    "xlg": "24px",
+    "xxlg": "32px",
+    "gutter": "16px"
+  },
+  "fontSizes": {
+    "header_1": "22px",
+    "header_2": "20px",
+    "title": "18px",
+    "paragraph_1": "16px",
+    "paragraph_2": "15px"
+  },
+  "line_height": {
+    "header_1": "28px",
+    "header_2": "25px",
+    "title": "24px",
+    "paragraph_1": "22px",
+    "paragraph_2": "20px"
+  },
+  "font_family": {
+    "system": "-apple-system, 'San Francisco', 'Helvetica Neue', 'Segoe WP', 'Segoe UI', Roboto, sans-serif",
+    "custom": "'Uni Neue', sans-serif"
+  }
+}

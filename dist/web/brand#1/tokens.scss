@@ -1,0 +1,271 @@
+
+/**
+ * Do not edit directly
+ * Generated on Thu, 18 Nov 2021 15:05:22 GMT
+ */
+
+$co-alias-color-brand-primary: #3B5998 !default; // this is a comment
+$co-alias-color-brand-secondary: #4267B2 !default; // this one is a comment too
+$co-avatar-size-xxsm: 36px !default;
+$co-avatar-size-sm: 72px !default;
+$co-avatar-size-md: 90px !default;
+$co-avatar-size-lg: 120px !default;
+$co-avatar-size-xlg: 150px !default;
+$co-avatar-border-radius-circle: 50% !default;
+$co-avatar-border-radius-squared: 12% !default;
+$co-avatar-monogram-color-default: #949494 !default;
+$co-avatar-monogram-color-variant-1: #ff4000 !default;
+$co-avatar-monogram-color-variant-2: #ff4278 !default;
+$co-avatar-monogram-color-variant-3: #ff8201 !default;
+$co-avatar-monogram-color-variant-4: #ffc831 !default;
+$co-avatar-monogram-color-variant-5: #00caa8 !default;
+$co-avatar-monogram-color-variant-6: #17d417 !default;
+$co-avatar-monogram-color-variant-7: #b500e3 !default;
+$co-avatar-monogram-color-variant-8: #1ab0ff !default;
+$co-avatar-monogram-color-variant-9: #2b8cfc !default;
+$co-base-border-radius: 10px !default;
+$co-border-radius-neato: 10px !default;
+$co-border-radius-arden: 100px !default;
+$co-button-border-radius: 10px !default;
+$co-button-border-width: 1px !default;
+$co-button-height: 44px !default;
+$co-button-height-small: 40px !default;
+$co-color-green: #4A8C70 !default; // look how this comment will appear in the generated files
+$co-color-blue: #14213D !default;
+$co-color-yellow: #FCA311 !default;
+$co-color-red: #BF0603 !default;
+$co-color-crazy: #02FF3A !default;
+$co-color-primary: #3B5998 !default;
+$co-color-secondary: #4267B2 !default;
+$co-color-feature-chat: #4A8C70 !default;
+$co-color-feature-blog: #14213D !default;
+$co-color-feature-shop: #FCA311 !default;
+$co-color-feature-settings: #BF0603 !default;
+$co-color-feature-foo: #02FF3A !default;
+$co-color-black: #000 !default;
+$co-color-gray-60: #6a6a6a !default;
+$co-color-gray-40: #949494 !default;
+$co-color-gray-24: #c4c4c4 !default;
+$co-color-gray-12: #e0e0e0 !default;
+$co-color-gray-3: #f6f6f6 !default;
+$co-color-action-primary: #3B5998 !default;
+$co-color-action-destructive: #BF0603 !default;
+$co-color-border: #e0e0e0 !default;
+$co-color-user-authenticated: #4A8C70 !default;
+$co-color-user-anonymous: #949494 !default;
+$co-color-social-facebook: #4867aa !default;
+$co-color-social-twitter: #1ab0ff !default;
+$co-color-social-vkontakte: #507299 !default;
+$co-color-social-odnoklassniki: #ff8201 !default;
+$co-color-social-google: #dc4a3d !default;
+$co-color-social-instagram: #d93175 !default;
+$co-color-social-linkedin: #0076b7 !default;
+$co-icon-size-xsm: 10px !default;
+$co-icon-size-sm: 16px !default;
+$co-icon-size-md: 22px !default;
+$co-icon-size-lg: 30px !default;
+$co-icon-size-xlg: 36px !default;
+$co-icon-size-xxlg: 46px !default;
+$co-icon-jumbo-size-md: 90px !default;
+$co-icon-jumbo-size-lg: 120px !default;
+$co-input-placeholder: #949494 !default;
+$co-input-choice-size: 24px !default;
+$co-input-toggle-width: 40px !default;
+$co-input-toggle-height: 24px !default;
+$co-input-search-height: 32px !default;
+$co-input-toolbar-height: 44px !default;
+$co-input-toolbar-item-gap: 0px !default;
+$co-input-toolbar-send-icon-size: 32px !default;
+$co-input-switcher-item-size: 40px !default;
+$co-input-switcher-icon-size: 24px !default;
+$co-input-mini-height: 36px !default;
+$co-input-mini-send-icon-size: 32px !default;
+$co-login-size-md: 65px !default;
+$co-login-size-lg: 90px !default;
+$co-login-size-xlg: 200px !default;
+$co-login-button-height: 48px !default;
+$co-spacing-xsm: 4px !default;
+$co-spacing-sm: 8px !default;
+$co-spacing-md: 12px !default;
+$co-spacing-lg: 16px !default;
+$co-spacing-xlg: 24px !default;
+$co-spacing-xxlg: 32px !default;
+$co-spacing-gutter: 16px !default;
+$co-font-sizes-header-1: 22px !default;
+$co-font-sizes-header-2: 20px !default;
+$co-font-sizes-title: 18px !default;
+$co-font-sizes-paragraph-1: 16px !default;
+$co-font-sizes-paragraph-2: 15px !default;
+$co-line-height-header-1: 28px !default;
+$co-line-height-header-2: 25px !default;
+$co-line-height-title: 24px !default;
+$co-line-height-paragraph-1: 22px !default;
+$co-line-height-paragraph-2: 20px !default;
+$co-font-family-system: -apple-system, 'San Francisco', 'Helvetica Neue', 'Segoe WP', 'Segoe UI', Roboto, sans-serif !default;
+$co-font-family-custom: 'Uni Neue', sans-serif !default;
+
+$tokens: (
+  'alias': (
+    'color': (
+      'brand': (
+        'primary': $co-alias-color-brand-primary,
+        'secondary': $co-alias-color-brand-secondary
+      )
+    )
+  ),
+  'avatar': (
+    'size': (
+      'xxsm': $co-avatar-size-xxsm,
+      'sm': $co-avatar-size-sm,
+      'md': $co-avatar-size-md,
+      'lg': $co-avatar-size-lg,
+      'xlg': $co-avatar-size-xlg
+    ),
+    'border_radius': (
+      'circle': $co-avatar-border-radius-circle,
+      'squared': $co-avatar-border-radius-squared
+    ),
+    'monogram': (
+      'color_default': $co-avatar-monogram-color-default,
+      'color_variant_1': $co-avatar-monogram-color-variant-1,
+      'color_variant_2': $co-avatar-monogram-color-variant-2,
+      'color_variant_3': $co-avatar-monogram-color-variant-3,
+      'color_variant_4': $co-avatar-monogram-color-variant-4,
+      'color_variant_5': $co-avatar-monogram-color-variant-5,
+      'color_variant_6': $co-avatar-monogram-color-variant-6,
+      'color_variant_7': $co-avatar-monogram-color-variant-7,
+      'color_variant_8': $co-avatar-monogram-color-variant-8,
+      'color_variant_9': $co-avatar-monogram-color-variant-9
+    )
+  ),
+  'base': (
+    'border': (
+      'radius': $co-base-border-radius
+    )
+  ),
+  'borderRadius': (
+    'neato': $co-border-radius-neato,
+    'arden': $co-border-radius-arden
+  ),
+  'button': (
+    'border': (
+      'radius': $co-button-border-radius,
+      'width': $co-button-border-width
+    ),
+    'height': $co-button-height,
+    'height_small': $co-button-height-small
+  ),
+  'color': (
+    'green': $co-color-green,
+    'blue': $co-color-blue,
+    'yellow': $co-color-yellow,
+    'red': $co-color-red,
+    'crazy': $co-color-crazy,
+    'primary': $co-color-primary,
+    'secondary': $co-color-secondary,
+    'feature': (
+      'chat': $co-color-feature-chat,
+      'blog': $co-color-feature-blog,
+      'shop': $co-color-feature-shop,
+      'settings': $co-color-feature-settings,
+      'foo': $co-color-feature-foo
+    ),
+    'black': $co-color-black,
+    'gray_60': $co-color-gray-60,
+    'gray_40': $co-color-gray-40,
+    'gray_24': $co-color-gray-24,
+    'gray_12': $co-color-gray-12,
+    'gray_3': $co-color-gray-3,
+    'action_primary': $co-color-action-primary,
+    'action_destructive': $co-color-action-destructive,
+    'border': $co-color-border,
+    'user': (
+      'authenticated': $co-color-user-authenticated,
+      'anonymous': $co-color-user-anonymous
+    ),
+    'social': (
+      'facebook': $co-color-social-facebook,
+      'twitter': $co-color-social-twitter,
+      'vkontakte': $co-color-social-vkontakte,
+      'odnoklassniki': $co-color-social-odnoklassniki,
+      'google': $co-color-social-google,
+      'instagram': $co-color-social-instagram,
+      'linkedin': $co-color-social-linkedin
+    )
+  ),
+  'icon': (
+    'size': (
+      'xsm': $co-icon-size-xsm,
+      'sm': $co-icon-size-sm,
+      'md': $co-icon-size-md,
+      'lg': $co-icon-size-lg,
+      'xlg': $co-icon-size-xlg,
+      'xxlg': $co-icon-size-xxlg
+    ),
+    'jumbo-size': (
+      'md': $co-icon-jumbo-size-md,
+      'lg': $co-icon-jumbo-size-lg
+    )
+  ),
+  'input': (
+    'placeholder': $co-input-placeholder,
+    'choice': (
+      'size': $co-input-choice-size
+    ),
+    'toggle': (
+      'width': $co-input-toggle-width,
+      'height': $co-input-toggle-height
+    ),
+    'search': (
+      'height': $co-input-search-height
+    ),
+    'toolbar': (
+      'height': $co-input-toolbar-height,
+      'item_gap': $co-input-toolbar-item-gap,
+      'send_icon_size': $co-input-toolbar-send-icon-size
+    ),
+    'switcher': (
+      'item_size': $co-input-switcher-item-size,
+      'icon_size': $co-input-switcher-icon-size
+    ),
+    'mini': (
+      'height': $co-input-mini-height,
+      'send_icon_size': $co-input-mini-send-icon-size
+    )
+  ),
+  'login': (
+    'size': (
+      'md': $co-login-size-md,
+      'lg': $co-login-size-lg,
+      'xlg': $co-login-size-xlg
+    ),
+    'button_height': $co-login-button-height
+  ),
+  'spacing': (
+    'xsm': $co-spacing-xsm,
+    'sm': $co-spacing-sm,
+    'md': $co-spacing-md,
+    'lg': $co-spacing-lg,
+    'xlg': $co-spacing-xlg,
+    'xxlg': $co-spacing-xxlg,
+    'gutter': $co-spacing-gutter
+  ),
+  'fontSizes': (
+    'header_1': $co-font-sizes-header-1,
+    'header_2': $co-font-sizes-header-2,
+    'title': $co-font-sizes-title,
+    'paragraph_1': $co-font-sizes-paragraph-1,
+    'paragraph_2': $co-font-sizes-paragraph-2
+  ),
+  'line_height': (
+    'header_1': $co-line-height-header-1,
+    'header_2': $co-line-height-header-2,
+    'title': $co-line-height-title,
+    'paragraph_1': $co-line-height-paragraph-1,
+    'paragraph_2': $co-line-height-paragraph-2
+  ),
+  'font_family': (
+    'system': $co-font-family-system,
+    'custom': $co-font-family-custom
+  )
+);
