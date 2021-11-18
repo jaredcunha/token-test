@@ -21,6 +21,10 @@
 			"value": "#02FF3A",
 			"type": "color"
 		},
+		"gold": {
+			"value": "#ffbe2e",
+			"type": "color"
+		},
 		"primary": {
 			"value": "{zalias.color.brand.primary.value}",
 			"type": "color"
