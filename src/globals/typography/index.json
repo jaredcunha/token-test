@@ -1,0 +1,51 @@
+{
+	"fontSizes": {
+		"header_1": {
+			"value": "22px",
+			"category": "typography",
+			"type": "fontSize"
+		},
+		"header_2": {
+			"value": "20px",
+			"category": "typography",
+			"type": "fontSize"
+		},
+		"title": {
+			"value": "18px",
+			"category": "typography",
+			"type": "fontSize"
+		},
+		"paragraph_1": {
+			"value": "16px",
+			"category": "typography",
+			"type": "fontSize"
+		},
+		"paragraph_2": {
+			"value": "15px",
+			"category": "typography",
+			"type": "fontSize"
+		}
+	},
+	"line_height": {
+		"header_1": {
+			"value": "28px",
+			"category": "typography"
+		},
+		"header_2": {
+			"value": "25px",
+			"category": "typography"
+		},
+		"title": {
+			"value": "24px",
+			"category": "typography"
+		},
+		"paragraph_1": {
+			"value": "22px",
+			"category": "typography"
+		},
+		"paragraph_2": {
+			"value": "20px",
+			"category": "typography"
+		}
+	}
+}

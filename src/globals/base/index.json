@@ -1,0 +1,20 @@
+{
+	"base": {
+		"border": {
+			"radius": {
+				"value": "10px",
+				"type": "border_radius"
+			}
+		}
+	},
+	"borderRadius": {
+		"neato": {
+			"value": "10px",
+			"type": "border-radius"
+		},
+		"arden": {
+			"value": "100px",
+			"type": "border-radius"
+		}
+	}
+}

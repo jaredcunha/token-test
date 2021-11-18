@@ -1,0 +1,32 @@
+{
+	"spacing": {
+		"xsm": {
+			"value": "4px",
+			"type": "spacing"
+		},
+		"sm": {
+			"value": "8px",
+			"type": "spacing"
+		},
+		"md": {
+			"value": "12px",
+			"type": "spacing"
+		},
+		"lg": {
+			"value": "16px",
+			"type": "spacing"
+		},
+		"xlg": {
+			"value": "24px",
+			"type": "spacing"
+		},
+		"xxlg": {
+			"value": "32px",
+			"type": "spacing"
+		},
+		"gutter": {
+			"value": "{spacing.lg.value}",
+			"type": "spacing"
+		}
+	}
+}
