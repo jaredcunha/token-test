@@ -1,10 +1,10 @@
 /**
  * Do not edit directly
- * Generated on Thu, 18 Nov 2021 15:15:11 GMT
+ * Generated on Thu, 18 Nov 2021 15:17:53 GMT
  */
 
-export const CO_ALIAS_FOO_BRAND_PRIMARY = "#3B5998"; // this is a comment
-export const CO_ALIAS_FOO_BRAND_SECONDARY = "#4267B2"; // this one is a comment too
+export const CO_ZALIAS_COLOR_BRAND_PRIMARY = "#3B5998"; // this is a comment
+export const CO_ZALIAS_COLOR_BRAND_SECONDARY = "#4267B2"; // this one is a comment too
 export const CO_AVATAR_SIZE_XXSM = "36px";
 export const CO_AVATAR_SIZE_SM = "72px";
 export const CO_AVATAR_SIZE_MD = "90px";

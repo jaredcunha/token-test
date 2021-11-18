@@ -1,11 +1,11 @@
 
 /**
  * Do not edit directly
- * Generated on Thu, 18 Nov 2021 15:15:11 GMT
+ * Generated on Thu, 18 Nov 2021 15:17:53 GMT
  */
 
-$co-alias-foo-brand-primary: #1DA1F2 !default;
-$co-alias-foo-brand-secondary: #AAB8C2 !default;
+$co-zalias-color-brand-primary: #1DA1F2 !default;
+$co-zalias-color-brand-secondary: #AAB8C2 !default;
 $co-avatar-size-xxsm: 36px !default;
 $co-avatar-size-sm: 72px !default;
 $co-avatar-size-md: 90px !default;
@@ -105,11 +105,11 @@ $co-font-family-system: -apple-system, 'San Francisco', 'Helvetica Neue', 'Segoe
 $co-font-family-custom: 'Uni Neue', sans-serif !default;
 
 $tokens: (
-  'alias': (
-    'foo': (
+  'zalias': (
+    'color': (
       'brand': (
-        'primary': $co-alias-foo-brand-primary,
-        'secondary': $co-alias-foo-brand-secondary
+        'primary': $co-zalias-color-brand-primary,
+        'secondary': $co-zalias-color-brand-secondary
       )
     )
   ),

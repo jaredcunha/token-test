@@ -22,11 +22,11 @@
 			"type": "color"
 		},
 		"primary": {
-			"value": "{alias.foo.brand.primary.value}",
+			"value": "{zalias.color.brand.primary.value}",
 			"type": "color"
 		},
 		"secondary": {
-			"value": "{alias.foo.brand.secondary.value}",
+			"value": "{zalias.color.brand.secondary.value}",
 			"type": "color"
 		}
 	}

@@ -1,6 +1,6 @@
 {
-  "alias": {
-    "foo": {
+  "zalias": {
+    "color": {
       "brand": {
         "primary": "#1DA1F2",
         "secondary": "#AAB8C2"
